@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: chatroom-cont
-        image: abdullah77044/chatroom:latest
+        image: abdullah77044/chatroom:2
         ports:
         - containerPort: 8080
